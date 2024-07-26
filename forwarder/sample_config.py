@@ -10,8 +10,8 @@ class Config(object):
     LOGGER = True
 
     # REQUIRED
-    API_KEY = ""  # API key obtained from BotFather
-    OWNER_ID = ""  # If you dont know, run the bot and do /id in your private chat with the bot
+    API_KEY = "7407891566:AAETTBrfgRDvkUxj_NoZzIRl8dPf-GMbh10"  # API key obtained from BotFather
+    OWNER_ID = "414590268"  # If you dont know, run the bot and do /id in your private chat with the bot
 
     # FOR AUTOMATICALLY FORWARDING MESSAGES
     FROM_CHATS = [-1001234704297 ]  # List of chat id's to forward messages from
